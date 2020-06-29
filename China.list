@@ -99,16 +99,6 @@ DOMAIN-SUFFIX,miui.com,PROXY
 DOMAIN-SUFFIX,miwifi.com,PROXY
 DOMAIN-SUFFIX,xiaomi.com,PROXY
 DOMAIN-SUFFIX,xiaomi.net,PROXY
-# > Microsoft
-DOMAIN-SUFFIX,microsoft.com,PROXY
-DOMAIN-SUFFIX,msecnd.net,PROXY
-DOMAIN-SUFFIX,office365.com,PROXY
-DOMAIN-SUFFIX,outlook.com,PROXY
-DOMAIN-SUFFIX,s-microsoft.com,PROXY
-DOMAIN-SUFFIX,visualstudio.com,PROXY
-DOMAIN-SUFFIX,windows.com,PROXY
-DOMAIN-SUFFIX,windowsupdate.com,PROXY
-# DOMAIN-KEYWORD,-microsoft-com.akamaized.net,PROXY
 # > NetEase
 USER-AGENT,NeteaseMusic*,PROXY
 USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*,PROXY
@@ -120,11 +110,6 @@ DOMAIN-SUFFIX,163yun.com,PROXY
 DOMAIN-SUFFIX,lofter.com,PROXY
 DOMAIN-SUFFIX,netease.com,PROXY
 DOMAIN-SUFFIX,ydstatic.com,PROXY
-# > PayPal
-USER-AGENT,PayPal*,PROXY
-DOMAIN-SUFFIX,paypal.com,PROXY
-DOMAIN-SUFFIX,paypal.me,PROXY
-DOMAIN-SUFFIX,paypalobjects.com,PROXY
 # > Sina
 DOMAIN-SUFFIX,sina.com,PROXY
 DOMAIN-SUFFIX,weibo.com,PROXY
@@ -163,19 +148,6 @@ DOMAIN-SUFFIX,meixincdn.com,PROXY
 DOMAIN-SUFFIX,ourdvs.com,PROXY
 DOMAIN-SUFFIX,staticdn.net,PROXY
 DOMAIN-SUFFIX,wangsu.com,PROXY
-# > IP Query
-DOMAIN-SUFFIX,ipip.net,PROXY
-DOMAIN-SUFFIX,ip.la,PROXY
-DOMAIN-SUFFIX,ip.sb,PROXY
-DOMAIN-SUFFIX,ip-cdn.com,PROXY
-DOMAIN-SUFFIX,ipv6-test.com,PROXY
-DOMAIN-SUFFIX,test-ipv6.com,PROXY
-DOMAIN-SUFFIX,whatismyip.com,PROXY
-DOMAIN,ip.istatmenus.app,PROXY
-# > Speed Test
-# DOMAIN-SUFFIX,speedtest.net,PROXY
-DOMAIN-SUFFIX,netspeedtestmaster.com,PROXY
-DOMAIN,speedtest.macpaw.com,PROXY
 # > Private Tracker
 DOMAIN-SUFFIX,animebytes.tv,PROXY
 DOMAIN-SUFFIX,awesome-hd.me,PROXY
@@ -216,9 +188,9 @@ DOMAIN-SUFFIX,aps.org,PROXY
 DOMAIN-SUFFIX,ascelibrary.org,PROXY
 DOMAIN-SUFFIX,asm.org,PROXY
 DOMAIN-SUFFIX,asme.org,PROXY
-DOMAIN-SUFFIX,astm.org,PROXY
+#DOMAIN-SUFFIX,astm.org,PROXY
 DOMAIN-SUFFIX,bmj.com,PROXY
-DOMAIN-SUFFIX,cambridge.org,PROXY
+#DOMAIN-SUFFIX,cambridge.org,PROXY
 DOMAIN-SUFFIX,cas.org,PROXY
 DOMAIN-SUFFIX,clarivate.com,PROXY
 DOMAIN-SUFFIX,ebscohost.com,PROXY
@@ -261,7 +233,7 @@ DOMAIN-SUFFIX,uni-bielefeld.de,PROXY
 DOMAIN-SUFFIX,webofknowledge.com,PROXY
 DOMAIN-SUFFIX,westlaw.com,PROXY
 DOMAIN-SUFFIX,wiley.com,PROXY
-DOMAIN-SUFFIX,worldbank.org,PROXY
+# DOMAIN-SUFFIX,worldbank.org,PROXY
 DOMAIN-SUFFIX,worldscientific.com,PROXY
 # > Other
 DOMAIN-SUFFIX,cn,PROXY
@@ -271,17 +243,14 @@ DOMAIN-SUFFIX,360in.com,PROXY
 DOMAIN-SUFFIX,51ym.me,PROXY
 DOMAIN-SUFFIX,8686c.com,PROXY
 DOMAIN-SUFFIX,abchina.com,PROXY
-DOMAIN-SUFFIX,accuweather.com,PROXY
 DOMAIN-SUFFIX,aicoinstorge.com,PROXY
 DOMAIN-SUFFIX,air-matters.com,PROXY
 DOMAIN-SUFFIX,air-matters.io,PROXY
 DOMAIN-SUFFIX,aixifan.com,PROXY
-DOMAIN-SUFFIX,amd.com,PROXY
 DOMAIN-SUFFIX,b612.net,PROXY
 DOMAIN-SUFFIX,bdatu.com,PROXY
 DOMAIN-SUFFIX,beitaichufang.com,PROXY
 DOMAIN-SUFFIX,bjango.com,PROXY
-DOMAIN-SUFFIX,booking.com,PROXY
 DOMAIN-SUFFIX,bstatic.com,PROXY
 DOMAIN-SUFFIX,cailianpress.com,PROXY
 DOMAIN-SUFFIX,camera360.com,PROXY
@@ -341,9 +310,6 @@ DOMAIN-SUFFIX,moke.com,PROXY
 DOMAIN-SUFFIX,mubu.com,PROXY
 DOMAIN-SUFFIX,myzaker.com,PROXY
 DOMAIN-SUFFIX,nim-lang-cn.org,PROXY
-DOMAIN-SUFFIX,nvidia.com,PROXY
-DOMAIN-SUFFIX,oracle.com,PROXY
-DOMAIN-SUFFIX,plex.tv,PROXY
 DOMAIN-SUFFIX,qdaily.com,PROXY
 DOMAIN-SUFFIX,qidian.com,PROXY
 DOMAIN-SUFFIX,qyer.com,PROXY
@@ -365,7 +331,6 @@ DOMAIN-SUFFIX,teamviewer.com,PROXY
 DOMAIN-SUFFIX,tianyancha.com,PROXY
 DOMAIN-SUFFIX,udacity.com,PROXY
 DOMAIN-SUFFIX,uning.com,PROXY
-DOMAIN-SUFFIX,weather.com,PROXY
 DOMAIN-SUFFIX,weico.cc,PROXY
 DOMAIN-SUFFIX,weidian.com,PROXY
 DOMAIN-SUFFIX,xiachufang.com,PROXY
